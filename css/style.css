@@ -24,6 +24,9 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 500;
     font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
@@ -37,7 +40,7 @@ body {
 .sitenav__item {
     display: flex;
     gap: 50px;
-    margin-top: 250px;
+   
 
 }
 
